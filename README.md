@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komenanna&label=Profile%20views&color=0e75b6&style=flat" alt="komenanna" /> </p>
 
 
-- 🔭 I’m currently learning **Python and Machine Learning**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap**
+- 🔭 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **komenriana@gmail.com**
 
